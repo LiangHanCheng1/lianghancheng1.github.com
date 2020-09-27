@@ -1,6 +1,6 @@
 ## Welcome to Jane's GitHub Pages
 
-## [博客园](https://www.cnblogs.com/janeszj/).
+## [博客园](https://www.cnblogs.com/990906lhc/).
 `You can use the [editor on GitHub](https://github.com/Freshmansolo/Freshmansolo.git.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -12,8 +12,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 * 学历 : 石家庄铁道大学  软件工程（本科）  2017级  
 * 手机号码 : 15512865266  
 * 电子邮箱 : 1795946360@qq.com
-* 个人主页 : [https://freshmansolo.github.io/Freshmansolo.git.com/](https://freshmansolo.github.io/Freshmansolo.git.com/)
-* Github 地址 : [https://github.com/Freshmansolo](https://github.com/Freshmansolo)
+* 个人主页 : [https://github.com/LiangHanCheng1/lianghancheng1.github.com](https://github.com/LiangHanCheng1/lianghancheng1.github.com)
+* Github 地址 : [https://github.com/LiangHanCheng1](https://github.com/LiangHanCheng1)
 
 
 ### 个人技能

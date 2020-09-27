@@ -1,4 +1,4 @@
-## Welcome to Jane's GitHub Pages
+## Welcome to lhc's GitHub Pages
 
 ## [博客园](https://www.cnblogs.com/990906lhc/).
 `You can use the [editor on GitHub](https://github.com/Freshmansolo/Freshmansolo.git.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

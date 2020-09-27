@@ -8,7 +8,7 @@
       <p><b>地址：石家庄市长安区石家庄铁道大学，9栋宿舍楼</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      
+      ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")     
     </td>
   </tr>
 </table>

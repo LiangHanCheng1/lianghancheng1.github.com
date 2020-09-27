@@ -26,9 +26,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 项目经历
 
 * viewPic   
-  项目地址 : [https://github.com/Freshmansolo/ParkinglotMis](https://github.com/Freshmansolo/ParkinglotMis)  
-  项目描述 : 一个简单的停车场管理系统的实现
-  使用技能 : HTML, JS, 把面向对象的思想融入到 js 中, 封装类似 JQuery 的 $ 方法
+  项目地址 : [https://github.com/LiangHanCheng1/zuoye/blob/master/BallGame2.java](https://github.com/LiangHanCheng1/zuoye/blob/master/BallGame2.java)  
+  项目描述 : 桌球小游戏
+  使用技能 : java
 
 ### 自我评价
 
